@@ -12,7 +12,8 @@ public class Simpleproject {
 		int b=20;
 		System.out.println("Value of a is"+" " +b);
 		
-
+		int c=20;
+		System.out.println("Value of a is"+" " +c);
 	}
 
 }
