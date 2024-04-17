@@ -8,6 +8,10 @@ public class Simpleproject {
 		
 		int a=10;
 		System.out.println("Value of a is"+" " +a);
+		
+		int b=20;
+		System.out.println("Value of a is"+" " +b);
+		
 
 	}
 
