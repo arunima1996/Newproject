@@ -5,7 +5,7 @@ public class Inheritence4 extends Inheritence2
 	
 	public void display()
 	{
-		System.out.println("Hi");
+		System.out.println("HI");
 	}
 
 	public static void main(String[] args)
